@@ -1,0 +1,24 @@
+{
+  "name": "serverless-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SdMartinez13/serverless-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SdMartinez13/serverless-rest-api/issues"
+  },
+  "homepage": "https://github.com/SdMartinez13/serverless-rest-api#readme",
+  "dependencies": {
+    "dynamoose": "^3.1.0"
+  }
+}
